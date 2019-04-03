@@ -9,3 +9,5 @@ brew tap zarashi-dev/weizen
 # Catalogue
 ## Formulae
 - [InputSourceSelector](https://github.com/minoki/InputSourceSelector)
+## Casks
+- [Sblack](https://www.sblack.online/)
